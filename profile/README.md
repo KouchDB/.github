@@ -1,6 +1,6 @@
 ## KouchDB 👋
 
-The KouchDB "org" is a collection of CouchDB and CouchDB compatible databases and related tools, and my own experimental forays into the ecosystem.
+A collection of CouchDB and CouchDB compatible databases and related tools, and my own experimental forays into the ecosystem.
 
 I'm a huge fan of the CouchDB concept and architecture, but I don't like the Erlang implementation.
 
