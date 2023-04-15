@@ -1,7 +1,7 @@
-## Hi there 👋
+## KouchDB 👋
 
-Personal collection of CouchDB and CouchDB compatible databases and related tools.
+The KouchDB project is a personal collection of CouchDB and CouchDB compatible databases and related tools.
 
-I'm a huge fan of the CouchDB concept and architecture and have evaluated it several times for different projects and never ended up choosing it.
+I'm a huge fan of the CouchDB concept and architecture and have evaluated it several times for different projects.  
 
-Some of the stuff found in this repo were experiments to help evaluate various configurations of CouchDB/PouchDB and creation of custom CouchDB-compatible datastores.
+This includes some experiments involving deployment of PouchDB (a nodejs rewrite of CouchDB) in various cloud-based configurations.
